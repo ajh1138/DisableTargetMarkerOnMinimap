@@ -1,0 +1,10 @@
+## Interface: 120107
+## Title: DisableTargetMarkerOnMinimap
+## Notes: Automatically unchecks the "Target" option in the Minimap tracking menu (once per character).
+## Author: ajh1138
+## Version: 12.01.07-01
+## SavedVariablesPerCharacter: DTMOMDB
+## IconTexture: Interface/Icons/Ability_Hunter_MarkedForDeath
+## Category-enUS: Interface
+
+Core.lua
